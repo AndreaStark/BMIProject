@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIProject</string>
+    <string name="weight_message">Weight(kg)</string>
+    <string name="height_message">Height(kg)</string>
+    <string name="calculation_msg">Calculate BMI</string>
+    <string name="bmi_msg">BMI:</string>
+    <string name="close_msg">Close</string>
+</resources>
